@@ -8,6 +8,8 @@ This project is a web page that displays piano like keys that are engaged by pre
 
 ![Screenshot](screenshot.png)
 
+Try the app out at [CodePen](https://codepen.io/kimnetics/pen/MWPeYZj).
+
 ## Notes
 
 The relative directory structure was kept the same as the one used in my JetBrains Academy solution.
